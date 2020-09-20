@@ -57,7 +57,7 @@ public class Main // class start
                     if (count > 4)
                     {
                         System.out.println("----------------------------------");
-                        System.out.println("You cannot draw anymore cards. . ."); // NEEDS FIXED ASAP, THROWN INTO LOOP PLZ FIX
+                        System.out.println("You cannot draw anymore cards. . ."); 
                         System.out.println("----------------------------------");
                         System.out.println("The total is: " + total);
                         System.out.println("House total: " + house);
